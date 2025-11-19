@@ -1,0 +1,21 @@
+Slide 1: Title Slide
+- ResearchLab-AI Results
+- Automatically generated research workflow output
+
+Slide 2: Problem Statement
+- Research is time consuming
+- Requires literature, experiments, code, analysis
+
+Slide 3: System Architecture
+- Multi-agent system (researcher, designer, coder, analyst, writer)
+
+Slide 4: Experiment Overview
+- Model, dataset
+- Metric
+
+Slide 5: Results
+- Accuracy
+- Plot
+
+Slide 6: Conclusion
+- Research workflow automated
